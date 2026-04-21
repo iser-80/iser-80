@@ -1,7 +1,7 @@
-<img src = "githubanner.JPG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Yassir%20Lamaoui&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Student&descAlignY=60&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/inng-issam-errafiy" target="_blank">
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/inng-test" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
@@ -16,34 +16,29 @@
   <a href="https://www.chess.com/member/glorffindel" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
-</p>
-
-
+</p> -->
 <br>
-
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
-
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png" width="25"/>
+  <em>About me</em>
+</h2>
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
-
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Issam Errafiy </b></em>, a Software Engineer student in 42/1337 school.
 </p>
-
-
 <br/>
-
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="15"/>   <em><b> Studying at the UM6P 1337 Coding school of Morocco (MAR) </b></em> <br/>
+   <!-- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4da.png" width="15"/>   <em><b> Private tutor in Python at the University </b></em><br/>
+   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/265f.png" width="15"/>   <em><b> Chess Player </b></em><br/> -->
 </p>
-
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" width="25"/>
+  <em> Technologies </em>
+</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
@@ -61,13 +56,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 <br/>
-
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-<div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iser-80&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ca.png" width="25"/>
+  <em> Statistics </em>
+</h2>
+<div align="center"> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iser-80&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&title_color=ffffff" width="100%"/>
 </div>
-
-
+</div>
